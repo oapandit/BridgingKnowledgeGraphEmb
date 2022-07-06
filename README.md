@@ -2,7 +2,7 @@
 This repository contains code for our paper " Integrating knowledge graph embeddings to improve mention representation for bridging anaphora resolution", which appeared in Workshop on Computational Models of Reference, Anaphora and Coreference, COLING 2020.
 
 
-# Steps to follow
+## Steps to follow
 1. The code is based on Python 3.3
 2. It uses Support Vector Machines for Ranking implementation given by the authors: https://www.cs.cornell.edu/people/tj/svm_light/svm_rank.html
 3. Download wordnet embeddings from: https://github.com/nlx-group/WordNetEmbeddings
