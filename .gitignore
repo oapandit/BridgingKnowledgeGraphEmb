@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# few python files
+auto_encoder_expts.py
+bert_analysis.py
+
